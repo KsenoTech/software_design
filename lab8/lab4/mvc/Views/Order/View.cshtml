@@ -1,0 +1,21 @@
+﻿@model IEnumerable<mvc.Models.OrderModel>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink("Редачить", "Edit", new {  @*id=item.Order*@  }) |
+                @Html.ActionLink("Удолить", "Delete", new { @*id=item.Order*@ })
+            </td>
+        </tr>
+    }
+
+</table>

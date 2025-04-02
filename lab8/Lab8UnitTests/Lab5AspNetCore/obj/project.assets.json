@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DAL": "1.0.0",
+          "DomainModel": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DomainModel": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "DomainModel/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DomainModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainModel.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DomainModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "DomainModel/1.0.0": {
+      "type": "project",
+      "path": "../DomainModel/DomainModel.csproj",
+      "msbuildProject": "../DomainModel/DomainModel.csproj"
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Interfaces/Interfaces.csproj",
+      "msbuildProject": "../Interfaces/Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BLL >= 1.0.0",
+      "DAL >= 1.0.0",
+      "Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Оля\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\Lab5.csproj",
+      "projectName": "Lab5",
+      "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\Lab5.csproj",
+      "packagesPath": "C:\\Users\\Оля\\.nuget\\packages\\",
+      "outputPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Оля\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj"
+            },
+            "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj"
+            },
+            "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

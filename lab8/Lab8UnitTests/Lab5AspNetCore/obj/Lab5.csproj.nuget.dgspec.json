@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\Lab5.csproj": {}
+  },
+  "projects": {
+    "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj"
+              },
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj"
+              },
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj"
+              },
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj",
+        "projectName": "DomainModel",
+        "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DomainModel\\DomainModel.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\Lab5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\Lab5.csproj",
+        "projectName": "Lab5",
+        "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\Lab5.csproj",
+        "packagesPath": "C:\\Users\\Оля\\.nuget\\packages\\",
+        "outputPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Lab5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Оля\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\BLL\\BLL.csproj"
+              },
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\DAL\\DAL.csproj"
+              },
+              "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\ConstrPO\\Лабы\\2023\\Lab4DI — копия\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

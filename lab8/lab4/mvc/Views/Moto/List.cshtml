@@ -1,0 +1,62 @@
+﻿@model IEnumerable<mvc.Models.MotoModel>
+
+@{
+    ViewBag.Title = "Список мотоциклов";
+    int i = 0;
+}
+
+    <p>
+        @Html.ActionLink("Добавить", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.id_Motorcycle)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeName)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.id_Motorcycle)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeName)
+            </td>
+            <td>
+                @Html.ActionLink("Изменить", "Edit", new { id=item.Id })
+                @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    
+    </table>
+

@@ -1,0 +1,56 @@
+﻿@model  mvc.Models.MotoModel
+
+@using (Html.BeginForm("EditP", "Moto", FormMethod.Post)) //тут можно задать конкретный метож который мы будем перевадать
+{
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Brand_name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Brand_name)
+                @Html.ValidationMessageFor(m => m.Brand_name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Model_name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Model_name)
+                @Html.ValidationMessageFor(m => m.Model_name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Cost, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Cost)
+                @Html.ValidationMessageFor(m => m.Cost)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Color, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Color)
+                @Html.ValidationMessageFor(model => model.Color)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TypeName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.id_Type_FK, new SelectList(Model.Types, "Id", "Name"), new { @Style = "width:100%;" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="@ViewBag.ButtonTitle" class="btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

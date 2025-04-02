@@ -1,0 +1,42 @@
+﻿@model Lab5AspnetMVC.Models.LinqReportModel
+@{
+    ViewData["Title"] = "Товары по производителю";
+}
+<div class="row">
+    <h1>Товары по производителю</h1>
+    @using (Html.BeginForm())
+    {
+        @Html.DropDownListFor(model => model.SelectedManufId, new SelectList(Model.ManufList, "Id", "Name"),
+       new { @Style = "width:100%;" })
+        <input type="submit" value="Найти" class="btn btn-default" />
+    }
+</div>
+
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                Название телефона
+            </th>
+            <th>
+                Стоимость
+            </th>
+        </tr>
+
+        @if (Model.ReportData != null)
+        {
+            foreach (var item in Model.ReportData)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cost)
+                </td>
+             </tr>
+            }
+        }
+    </table>
+</div>
+

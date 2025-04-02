@@ -1,0 +1,82 @@
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Lab4DI.exe.config
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Lab4DI.exe
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Lab4DI.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.csproj.AssemblyReference.cache
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.Properties.Resources.resources
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.csproj.GenerateResource.cache
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.csproj.CoreCompileInputs.cache
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.exe
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.MainForm.resources
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\BLL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Interfaces.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Ninject.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\DomainModel.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\EntityFramework.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\BLL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\DAL.dll.config
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Interfaces.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\Ninject.xml
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\DomainModel.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\EntityFramework.xml
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\obj\Debug\Lab4DI.csproj.CopyComplete
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\EntityFramework.SqlServer.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\Lab4DI\bin\Debug\EntityFramework.SqlServer.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Lab4DI.exe.config
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Lab4DI.exe
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Lab4DI.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\BLL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\EntityFramework.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\EntityFramework.SqlServer.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Interfaces.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Ninject.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DomainModel.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\BLL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DAL.dll.config
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Interfaces.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\EntityFramework.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\EntityFramework.SqlServer.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Ninject.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DomainModel.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.csproj.AssemblyReference.cache
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.MainForm.resources
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.Properties.Resources.resources
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.csproj.GenerateResource.cache
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.csproj.CoreCompileInputs.cache
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.csproj.CopyComplete
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.exe
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\obj\Debug\Lab4DI.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\mongocrypt.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Driver.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Bson.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Driver.Core.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Memory.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DnsClient.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\SharpCompress.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\ZstdSharp.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\AWSSDK.Core.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Snappier.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Numerics.Vectors.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Buffers.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\BLL.dll.config
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Driver.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Bson.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\MongoDB.Driver.Core.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Memory.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\DnsClient.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\AWSSDK.Core.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\AWSSDK.Core.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\Snappier.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Numerics.Vectors.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Buffers.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\Lab4DI\bin\Debug\System.Threading.Tasks.Extensions.xml

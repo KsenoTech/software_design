@@ -1,0 +1,15 @@
+﻿@model Lab5AspnetMVC.Models.PhoneModel
+
+@{
+    ViewBag.Title = "Изменить телефон";
+    ViewBag.ButtonTitle = "Изменить";
+}
+
+
+@Html.Partial("_PhoneForm", Model)
+
+<div>
+    @Html.ActionLink("список телефонов", "Index")
+</div>
+
+

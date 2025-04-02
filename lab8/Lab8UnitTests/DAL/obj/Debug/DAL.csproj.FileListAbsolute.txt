@@ -1,0 +1,132 @@
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\DAL.dll.config
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\DomainModel.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\EntityFramework.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\Interfaces.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\DomainModel.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\Interfaces.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\EntityFramework.xml
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\obj\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI\DAL\obj\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DAL.dll.config
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DomainModel.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\EntityFramework.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Interfaces.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DomainModel.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Interfaces.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\EntityFramework.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\obj\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\obj\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\mongocrypt.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\AWSSDK.Core.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\AWSSDK.SecurityToken.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DnsClient.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Bson.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Driver.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\SharpCompress.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Snappier.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Buffers.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Memory.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\ZstdSharp.dll
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\AWSSDK.Core.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\AWSSDK.Core.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\AWSSDK.SecurityToken.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\DnsClient.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Bson.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Driver.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\Snappier.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Buffers.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Memory.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ConstrPO\Лабы\2023\Lab4DI — копия\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\mongocrypt.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DAL.dll.config
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DAL.pdb
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\AWSSDK.Core.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\AWSSDK.SecurityToken.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DnsClient.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DomainModel.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\EntityFramework.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Interfaces.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Bson.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Driver.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\SharpCompress.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Snappier.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Buffers.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Memory.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\ZstdSharp.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DomainModel.pdb
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Interfaces.pdb
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\AWSSDK.Core.pdb
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\AWSSDK.Core.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\AWSSDK.SecurityToken.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\DnsClient.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\EntityFramework.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Bson.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Driver.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\Snappier.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Buffers.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Memory.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\obj\Debug\DAL.dll
+D:\ConstrPO\Лабы\2023\Lab8UnitTests\DAL\obj\Debug\DAL.pdb
