@@ -1,0 +1,50 @@
+﻿@model Lab5AspnetMVC.Models.SPReportModel
+@{
+    ViewBag.Title = "Заказы за месяц";
+}
+<div class="row">
+    <h1>Заказы за месяц</h1>
+    @using (Html.BeginForm())
+    {
+        <label>Месяц:</label>
+        @Html.TextBoxFor(model => model.SelectedMonth, new { @type = "number" })
+        <label>Год:</label>
+        @Html.TextBoxFor(model => model.SelectedYear, new { @type = "number" })
+        <input type="submit" value="Найти" class="btn-default" />
+    }
+</div>
+
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                Покупатель
+            </th>
+            <th>
+                Товары
+            </th>
+            <th>
+                Дата
+            </th>
+        </tr>
+
+        @if (Model.ReportData != null)
+        {
+            foreach (var item in Model.ReportData)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phones)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+        </tr>
+            }
+        }
+    </table>
+</div>
+

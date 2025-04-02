@@ -1,0 +1,44 @@
+﻿@model Lab5AspnetMVC.Models.OrderModel
+@using (Html.BeginForm())
+{
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Order.Id)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Order.Customer, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Order.Customer)
+            @Html.ValidationMessageFor(m => m.Order.Customer)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Order.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Order.Address)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @{ foreach (var phone in Model.PhoneList)
+            {
+                <div>
+                    <label>
+                        <input type="checkbox" name="Order.OrderedPhonesIds" value="@phone.Id" /> @phone.Name
+                    </label>
+                </div>
+            }
+        }
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Заказать" class="btn-default" />
+        </div>
+    </div>
+</div>
+    }
+

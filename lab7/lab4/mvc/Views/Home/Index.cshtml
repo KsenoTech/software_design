@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Магазин мотоциклетных устройств";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">МОТИКИИ (как котики, но мотики)</h1>
+        <p class="lead">Представляем Вашему вниманию магазинчик по продаже мотоциклов.</p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-4">
+            <h2 id="gettingStartedTitle">Сделать заказ</h2>
+            <p>Слов нет, просто *тык*</p>
+            <p><a class="btn btn-outline-dark" @Html.ActionLink("Тык сюда", "Index", "Order")</a></p>
+        </section>
+
+        <section class="col-md-4">
+            <h2 id="librariesTitle">Отсортировать по типу</h2>
+            <p>Отчет_1</p>
+            <p><a class="btn btn-outline-dark" @Html.ActionLink("Тык сюда", "LinqReport", "Reports")</a></p>
+        </section>
+
+        <section class="col-md-4">
+            <h2 id="hostingTitle">Пробить кредит</h2>
+            <p>Отчет_2</p>
+            <p><a class="btn btn-outline-dark" @Html.ActionLink("Тык сюда", "SPReport", "Reports")</a></p>
+        </section>
+    </div>
+</main>

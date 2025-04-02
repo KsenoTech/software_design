@@ -1,0 +1,56 @@
+﻿@model mvc.Models.SPReportModel
+@{
+    ViewBag.Title = "Посчитаем кредит";
+}
+<div class="row">
+    <h1>страшное слово - кредит..</h1>
+    @using (Html.BeginForm())
+    {
+        <label>Сумма ваша: </label>
+        @Html.TextBoxFor(model => model.SelectedHaveMoney, new { @type = "number" })
+        <label>Есть ли в наличии: </label>
+        @Html.TextBoxFor(model => model.SelectedHaveInShop, new { @type = "number" })
+        <input type="submit" value="Найти" class="btn-default" />
+    }
+</div>
+
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                Brand
+            </th>
+            <th>
+                Model
+            </th>
+            <th>
+                Cost
+            </th>
+            <th>
+                Credit_On
+            </th>
+        </tr>
+
+        @if (Model.ReportSQLData != null)
+        {
+            foreach (var item in Model.ReportSQLData)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Brand_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Model_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cost)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Credit_On)
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>
+

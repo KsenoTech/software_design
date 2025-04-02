@@ -1,0 +1,44 @@
+﻿@model mvc.Models.OrderModel
+@using (Html.BeginForm())
+{
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Order.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Order.Customer, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Order.Customer)
+                @Html.ValidationMessageFor(m => m.Order.Customer)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Order.Adress, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Order.Adress)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @{ foreach (var moto in Model.MotoList)
+                {
+                    <div>
+                        <label>
+                            <input type="checkbox" name="Order.OrderedMotosIDs" value="@moto.Id" /> @moto.Brand_name, @moto.Model_name
+                        </label>
+                    </div>
+                }
+            }
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Заказать" class="btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

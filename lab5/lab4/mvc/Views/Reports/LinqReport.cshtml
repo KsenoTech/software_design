@@ -1,0 +1,42 @@
+﻿@model mvc.Models.LinqReportModel
+@{
+    ViewBag.Title = "Двухколесные братья по типу";
+}
+<div class="row">
+    <h1>Товары по производителю</h1>
+    @using (Html.BeginForm())
+    {
+        @Html.DropDownListFor(model => model.SelectedTypeId, new SelectList(Model.TypeList, "Id", "Name"),
+       new { @Style = "width:100%;" })
+        <input type="submit" value="Найти" class="btn-default" />
+    }
+</div>
+
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                Название мотоцикла
+            </th>
+            <th>
+                Стоимость
+            </th>
+        </tr>
+
+        @if (Model.ReportSQLData != null)
+        {
+            foreach (var item in Model.ReportSQLData)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Brand_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cost)
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>
+

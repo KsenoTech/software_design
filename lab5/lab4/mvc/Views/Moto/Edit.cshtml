@@ -1,0 +1,15 @@
+﻿@model  mvc.Models.MotoModel
+
+@{
+    ViewBag.Title = "Изменить мотоцикл";
+    ViewBag.ButtonTitle = "Изменить";
+}
+
+
+@Html.Partial("_MotoForm", Model)
+
+<div>
+    @Html.ActionLink("список мотоциклов", "Index")
+</div>
+
+

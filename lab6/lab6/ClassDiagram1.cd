@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab6.BankPaymentHandler">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="lab6.PayHandler" FixedFromPoint="true">
+      <Path>
+        <Point X="7" Y="2.305" />
+        <Point X="7" Y="3.125" />
+        <Point X="5.25" Y="3.125" />
+        <Point X="5.25" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>BankPaymentHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab6.BitcoinPaymentHandler">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="lab6.PayHandler" FixedFromPoint="true">
+      <Path>
+        <Point X="7.812" Y="2.305" />
+        <Point X="7.812" Y="3.125" />
+        <Point X="10" Y="3.125" />
+        <Point X="10" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>BitcoinPaymentHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab6.PayHandler">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>PayHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab6.PaypalPaymentHandler">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="lab6.PayHandler" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.438" Y="2.305" />
+        <Point X="7.438" Y="3.303" />
+        <Point X="7.438" Y="3.303" />
+        <Point X="7.438" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>PaypalPaymentHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab6.Receiver">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAxAAAAA=</HashCode>
+      <FileName>Receiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
